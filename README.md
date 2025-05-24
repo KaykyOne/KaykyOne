@@ -5,7 +5,7 @@ Sou Kayky Zioti, esse é meu repositório do GitHub
 <table>
   <tr>
     <td><img src="https://github-readme-stats.vercel.app/api?username=kaykyOne&show_icons=true&theme=radical" alt="GitHub stats"></td>
-    <td><a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaykyOne&layout=donut-vertical&theme=radical" alt="Top Langs"></a></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaykyOne&layout=donut-vertical&theme=radical" alt="Top Langs"></td>
   </tr>
 </table>
 
