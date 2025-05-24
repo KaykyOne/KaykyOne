@@ -10,8 +10,8 @@ Sou Kayky Zioti, esse é meu repositório do GitHub
 
 <h1 style="font-weight: semi-bold;">Stack</h1>
 <div style="display: flex; gap: 50px; align-items: center;">
-      <img style="height: 50px;" src="https://icones.pro/wp-content/uploads/2021/05/icone-html-orange.png"/>
-      <img style="height: 50px;" src="https://cdn.iconscout.com/icon/free/png-256/free-css3-logo-icon-download-in-svg-png-gif-file-formats--css-wordmark-programming-langugae-language-pack-logos-icons-1175238.png"/>
+      <img style="height: 50px;" src="https://static-00.iconduck.com/assets.00/html5-icon-2018x2048-st7q7lm6.png"/>
+      <img style="height: 50px;" src="https://cdn1.iconfinder.com/data/icons/social-media-logos-7/64/css-3-512.png"/>
       <img style="height: 50px;" src="https://static-00.iconduck.com/assets.00/node-js-icon-1817x2048-g8tzf91e.png"/>
       <img style="height: 50px;" src="https://img.icons8.com/color/512/javascript.png"/>
       <img style="height: 40px;" src="https://static-00.iconduck.com/assets.00/tailwind-css-icon-2048x1229-u8dzt4uh.png"/>
