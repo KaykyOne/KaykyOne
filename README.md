@@ -6,8 +6,8 @@
 </ul>
 
 <div style="display: flex; gap:10px; margin-top: 10px;">
-      <img style="height: 190em;" src="https://github-readme-stats.vercel.app/api?username=kaykyOne&show_icons=true&theme=radical" alt="GitHub stats">  
-      <img style="height: 190em;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaykyOne&layout=compact&theme=radical" alt="Top Langs"></td>
+      <img style="height: 190px;" src="https://github-readme-stats.vercel.app/api?username=kaykyOne&show_icons=true&theme=radical" alt="GitHub stats">  
+      <img style="height: 190px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaykyOne&layout=compact&theme=radical" alt="Top Langs"></td>
 </div>
 
 <h1 style="font-weight: semi-bold;">Stack</h1>
