@@ -1,11 +1,13 @@
 <h1 style="font-weight: bold;">Bem Vindo!</h1>
-Sou Kayky Zioti, esse é meu repositório do GitHub
-- Sou Técnico em Desenvolvimento de Sistemas formado pela ETEC Jales.
-- Estou cursando Análise e Desenvolvimento de Sistemas AMS, para me tornar Técnologo pela Fatec de Jales.
+<h3>Sou Kayky Zioti, esse é meu repositório do GitHub</h3>
+<ul>
+      <li>- Sou Técnico em Desenvolvimento de Sistemas formado pela ETEC Jales.</li>
+      <li>- Estou cursando Análise e Desenvolvimento de Sistemas AMS, para me tornar Técnologo pela Fatec de Jales.</li>
+</ul>
 
-<div style="display: flex; gap:10px">
-      <img style="height: 150px;" src="https://github-readme-stats.vercel.app/api?username=kaykyOne&show_icons=true&theme=radical" alt="GitHub stats">  
-      <img style="height: 150px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaykyOne&layout=compact&theme=radical" alt="Top Langs"></td>
+<div style="display: flex; gap:10px; margin-top: 10px;">
+      <img style="height: 190em;" src="https://github-readme-stats.vercel.app/api?username=kaykyOne&show_icons=true&theme=radical" alt="GitHub stats">  
+      <img style="height: 190em;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaykyOne&layout=compact&theme=radical" alt="Top Langs"></td>
 </div>
 
 <h1 style="font-weight: semi-bold;">Stack</h1>
