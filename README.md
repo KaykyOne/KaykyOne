@@ -1,8 +1,8 @@
 <h1 style="font-weight: bold;">Bem Vindo!</h1>
 <h3>Sou Kayky Zioti, esse é meu repositório do GitHub</h3>
 <ul>
-      <li>- Sou Técnico em Desenvolvimento de Sistemas formado pela ETEC Jales.</li>
-      <li>- Estou cursando Análise e Desenvolvimento de Sistemas AMS, para me tornar Técnologo pela Fatec de Jales.</li>
+      <li>Sou Técnico em Desenvolvimento de Sistemas formado pela ETEC Jales.</li>
+      <li>Estou cursando Análise e Desenvolvimento de Sistemas AMS, para me tornar Técnologo pela Fatec de Jales.</li>
 </ul>
 
 <div style="display: flex; gap:10px; margin-top: 10px;">
