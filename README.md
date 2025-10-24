@@ -17,5 +17,6 @@
       <img style="height: 50px;" src=".\js.png"/>
       <img style="height: 50px;" src=".\csharp.png"/>
       <img style="height: 40px;" src=".\node.png"/>
+      <img style="height: 40px;" src=".\ts.png"/>
 </div>
 
