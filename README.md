@@ -5,7 +5,7 @@
       <li>Estou cursando Análise e Desenvolvimento de Sistemas AMS, para me tornar Técnologo pela Fatec de Jales.</li>
 </ul>
 
-## Estatística
+## Estatísticas
 
 <div style="display: flex; width:100% height:200px;">
       <img style="width:56.5%" src="https://github-readme-stats.vercel.app/api?username=kaykyOne&show_icons=true&theme=dark" alt="GitHub stats">  
