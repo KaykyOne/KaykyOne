@@ -7,9 +7,9 @@
 
 ## Estatística
 
-<div style="display: flex; gap:10px; margin-top: 10px;">
-      <img style="height: 190px;" src="https://github-readme-stats.vercel.app/api?username=kaykyOne&show_icons=true&theme=dark" alt="GitHub stats">  
-      <img style="height: 190px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaykyOne&layout=compact&theme=dark" alt="Top Langs"></td>
+<div style="display: flex; width:100% height:200px;">
+      <img style="width:56.5%" src="https://github-readme-stats.vercel.app/api?username=kaykyOne&show_icons=true&theme=dark" alt="GitHub stats">  
+      <img style="width:42.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaykyOne&layout=compact&theme=dark" alt="Top Langs"></td>
 </div>
 
 ## Principais Tecnologias
