@@ -32,6 +32,8 @@
   <img src="https://img.shields.io/badge/React-1F6FAF?style=for-the-badge&logo=react&logoColor=white" />
   <img src="https://img.shields.io/badge/TailwindCSS-0E92D7?style=for-the-badge&logo=tailwindcss&logoColor=white" />
   <img src="https://img.shields.io/badge/Astro-BC52EE?style=for-the-badge&logo=astro&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
 
   <!-- Back-End e Banco -->
   <img src="https://img.shields.io/badge/Supabase-0E8F63?style=for-the-badge&logo=supabase&logoColor=white" />
