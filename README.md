@@ -2,7 +2,7 @@
 ### Desenvolvedor focado em aplicações web, automação e back-end, com experiência prática em projetos reais.
 
 <br/>
-<img src="./gif.gif" style="width:100vh;"/>   
+<img src="./gif.gif" style="width:100vh; height:400px;"/>   
 
 ## Um pouco sobre mim
 
