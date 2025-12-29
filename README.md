@@ -1,8 +1,14 @@
 # Bem Vindo!
-### Sou Kayky Zioti, esse é meu repositório do GitHub
+### Desenvolvedor focado em aplicações web, automação e back-end, com experiência prática em projetos reais.
+
+<br/>
+<img src="./gif.gif" style="width:100vh;"/>   
+
+## Um pouco sobre mim
+
 <ul>
       <li>Sou Técnico em Desenvolvimento de Sistemas formado pela ETEC Jales.</li>
-      <li>Estou cursando Análise e Desenvolvimento de Sistemas AMS, para me tornar Técnologo pela Fatec de Jales.</li>
+      <li>Estou cursando Análise e Desenvolvimento de Sistemas AMS, para me tornar Tecnólogo pela Fatec de Jales.</li>
 </ul>
 
 ## Estatísticas
