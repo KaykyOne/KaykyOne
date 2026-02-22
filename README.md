@@ -62,6 +62,6 @@
   <img src="https://img.shields.io/badge/Baileys-128C4A?style=for-the-badge&logo=whatsapp&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/ChatGPT-0A0A0A?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Agile-0A0A0A?style=for-the-badge&logo=openai&logoColor=white" />
 
 </div>
