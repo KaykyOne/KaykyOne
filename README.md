@@ -14,12 +14,10 @@
       <li>Estou cursando Análise e Desenvolvimento de Sistemas AMS, para me tornar Tecnólogo pela Fatec de Jales.</li>
 </ul>
 
-## Estatísticas
-
-<div style="display: flex; width:100% height:200px;">
+<!--<div style="display: flex; width:100% height:200px;">
       <img style="width:56.5%" src="https://github-readme-stats-fast.vercel.app/api?username=kaykyOne&show_icons=true&theme=dark" alt="GitHub stats">  
       <img style="width:42.5%" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=kaykyOne&layout=compact&theme=dark&hide=html,css" alt="Top Langs"></td>
-</div>
+</div>-->
 
 ## Principais Tecnologias
 
