@@ -1,6 +1,6 @@
 <div align="center">
 
-# Kayky
+# Kayky Zioti
 
 **Full Stack Developer** · NovusTech · Jales, SP
 
