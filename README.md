@@ -5,7 +5,7 @@
 **Full Stack Developer** · NovusTech · Jales, SP
 
 Construo sistemas reais — do banco de dados à interface.<br/>
-Estagiário na [Enterscience](https://enterscience.com.br) · ADS na FATEC Jales
+Estagiário na [Enterscience](https://enterscience.com.br) · Graduando em Análise e Desenvolvimento de Sistemas pela FATEC Jales
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kaykyzioti/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:kaykyzioti@gmail.com)
