@@ -7,11 +7,9 @@
 Construo sistemas reais — do banco de dados à interface.<br/>
 Estagiário na [Enterscience](https://enterscience.com.br) · ADS na FATEC Jales
 
-<br/>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/seu-perfil)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:seu@email.com)
-[![NovusCFC](https://img.shields.io/badge/NovusCFC-000000?style=flat-square&logo=vercel&logoColor=white)](https://novuscfc.app.br)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kaykyzioti/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:kaykyzioti@gmail.com)
+[![Portfólio](https://img.shields.io/badge/Portfólio-000000?style=flat-square&logo=vercel&logoColor=white)](https://kaykyone.github.io/)
 
 </div>
 
@@ -21,56 +19,55 @@ Estagiário na [Enterscience](https://enterscience.com.br) · ADS na FATEC Jales
 
 ## Projetos
 
-</div>
+<table>
+<tr>
+<td width="33%" valign="top">
 
-<br/>
+**NovusCFC**<br/>
+*Sistema de Gestão para Autoescolas*
 
-**NovusCFC** — Sistema de Gestão para Autoescolas
-
-> Sistema completo em produção com **+800 usuários cadastrados**, desenvolvido do zero e usado diariamente na minha própria autoescola. Arquitetura, back-end, front-end e deploy — tudo por conta própria. Ser o próprio cliente elimina tolerância a problemas de qualidade.
-
-<div align="center">
+Sistema completo em produção com **+800 usuários**. Arquitetura, back-end, front-end e deploy — tudo por conta própria.
 
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-0E8F63?style=flat-square&logo=supabase&logoColor=white)
 
-→ [novuscfc.app.br](https://novuscfc.app.br)
+[![Preview](https://img.shields.io/badge/Preview-novuscfc.app.br-111111?style=flat-square&logo=vercel&logoColor=white)](https://novuscfc.app.br)
 
-</div>
+</td>
+<td width="33%" valign="top">
 
-<br/>
+**Civitas**<br/>
+*Sistema para Gestão Municipal*
 
-**Civitas** — Sistema para Gestão Municipal
-
-> Projeto acadêmico desenvolvido com a turma da FATEC Jales, com implantação prevista na **Prefeitura de Jales-SP**. Atuei como coordenador de projetos do front-end — prototipação, organização do fluxo da equipe e QA das entregas de interface.
-
-<div align="center">
+Projeto acadêmico com implantação prevista na **Prefeitura de Jales-SP**. Coordenador de projetos do front-end, prototipação e QA.
 
 ![React](https://img.shields.io/badge/React-1F6FAF?style=flat-square&logo=react&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 
-</div>
+[![Preview](https://img.shields.io/badge/Preview-em_breve-555555?style=flat-square&logo=vercel&logoColor=white)]()
 
-<br/>
+</td>
+<td width="33%" valign="top">
 
-**Microserviço de Notificações via WhatsApp**
+**WhatsApp Notifier**<br/>
+*Microserviço de Notificações*
 
-> Serviço independente integrado ao NovusCFC. Suporte a múltiplas sessões simultâneas, arquitetura baseada em webhooks e deploy em VPS com PM2.
-
-<div align="center">
+Serviço independente integrado ao NovusCFC. Múltiplas sessões simultâneas, webhooks e deploy em VPS com PM2.
 
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
 ![Baileys](https://img.shields.io/badge/Baileys-128C4A?style=flat-square&logo=whatsapp&logoColor=white)
 ![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=flat-square&logo=socketdotio&logoColor=white)
 
-</div>
+[![Preview](https://img.shields.io/badge/Preview-em_breve-555555?style=flat-square&logo=vercel&logoColor=white)]()
+
+</td>
+</tr>
+</table>
 
 ---
-
-<div align="center">
 
 ## Stack
 
@@ -106,11 +103,7 @@ Estagiário na [Enterscience](https://enterscience.com.br) · ADS na FATEC Jales
 ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black)
 ![Electron](https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white)
 
-</div>
-
 ---
-
-<div align="center">
 
 ## Formação
 
