@@ -1,79 +1,120 @@
-# Bem-vindo!
+<div align="center">
 
-### Desenvolvedor focado em aplicações web, automação e back-end  
-Experiência prática construindo sistemas reais e soluções orientadas a negócio.
+# Kayky
+
+**Full Stack Developer** · NovusTech · Jales, SP
+
+Construo sistemas reais — do banco de dados à interface.<br/>
+Estagiário na [Enterscience](https://enterscience.com.br) · ADS na FATEC Jales
 
 <br/>
 
-<p align="center">
-  <img src="https://i.pinimg.com/originals/53/73/61/537361c8c700bc1ff95907a8e2679dde.gif" width="100%" height="400px" />
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/seu-perfil)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:seu@email.com)
+[![NovusCFC](https://img.shields.io/badge/NovusCFC-000000?style=flat-square&logo=vercel&logoColor=white)](https://novuscfc.app.br)
+
+</div>
 
 ---
 
-## Sobre mim
+<div align="center">
 
-- Técnico em Desenvolvimento de Sistemas pela ETEC Jales
-- Cursando Análise e Desenvolvimento de Sistemas (AMS) na FATEC Jales
-- Foco em back-end, automações e construção de sistemas escaláveis
-- Experiência com projetos reais
+## Projetos
 
----
+</div>
 
-## Stack Principal
+<br/>
 
-### Linguagens & Base
-<p>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-</p>
+**NovusCFC** — Sistema de Gestão para Autoescolas
 
-### Back-end
-<p>
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
-  <img src="https://img.shields.io/badge/Entity%20Framework-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
-</p>
+> Sistema completo em produção com **+800 usuários cadastrados**, desenvolvido do zero e usado diariamente na minha própria autoescola. Arquitetura, back-end, front-end e deploy — tudo por conta própria. Ser o próprio cliente elimina tolerância a problemas de qualidade.
 
-### Front-end
-<p>
-  <img src="https://img.shields.io/badge/React-1F6FAF?style=for-the-badge&logo=react&logoColor=white" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
-  <img src="https://img.shields.io/badge/Astro-BC52EE?style=for-the-badge&logo=astro&logoColor=white" />
-  <img src="https://img.shields.io/badge/TailwindCSS-0E92D7?style=for-the-badge&logo=tailwindcss&logoColor=white" />
-</p>
+<div align="center">
 
-### Banco de Dados & Backend-as-a-Service
-<p>
-  <img src="https://img.shields.io/badge/Supabase-0E8F63?style=for-the-badge&logo=supabase&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-</p>
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-0E8F63?style=flat-square&logo=supabase&logoColor=white)
 
-### Outras Tecnologias
-<p>
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" />
-  <img src="https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white" />
-  <img src="https://img.shields.io/badge/Baileys-128C4A?style=for-the-badge&logo=whatsapp&logoColor=white" />
-</p>
+→ [novuscfc.app.br](https://novuscfc.app.br)
 
-### Ferramentas
-<p>
-  <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
-</p>
+</div>
+
+<br/>
+
+**Civitas** — Sistema para Gestão Municipal
+
+> Projeto acadêmico desenvolvido com a turma da FATEC Jales, com implantação prevista na **Prefeitura de Jales-SP**. Atuei como coordenador de projetos do front-end — prototipação, organização do fluxo da equipe e QA das entregas de interface.
+
+<div align="center">
+
+![React](https://img.shields.io/badge/React-1F6FAF?style=flat-square&logo=react&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+
+</div>
+
+<br/>
+
+**Microserviço de Notificações via WhatsApp**
+
+> Serviço independente integrado ao NovusCFC. Suporte a múltiplas sessões simultâneas, arquitetura baseada em webhooks e deploy em VPS com PM2.
+
+<div align="center">
+
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
+![Baileys](https://img.shields.io/badge/Baileys-128C4A?style=flat-square&logo=whatsapp&logoColor=white)
+![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=flat-square&logo=socketdotio&logoColor=white)
+
+</div>
 
 ---
 
-## Diferenciais
+<div align="center">
 
-- Criação de sistemas completos (front-end, back-end e automações)
-- Integrações e bots (ex: WhatsApp com Baileys)
-- Foco em resolver problemas reais
-- Organização de código pensando em escalabilidade
+## Stack
+
+**Linguagens**
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+
+**Back-end**
+
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+
+**Front-end**
+
+![React](https://img.shields.io/badge/React-1F6FAF?style=flat-square&logo=react&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-0E92D7?style=flat-square&logo=tailwindcss&logoColor=white)
+![Astro](https://img.shields.io/badge/Astro-BC52EE?style=flat-square&logo=astro&logoColor=white)
+
+**Banco de Dados**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-0E8F63?style=flat-square&logo=supabase&logoColor=white)
+
+**Ferramentas**
+
+![Git](https://img.shields.io/badge/Git-F05033?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-000000?style=flat-square&logo=github&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black)
+![Electron](https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white)
+
+</div>
 
 ---
+
+<div align="center">
+
+## Formação
+
+**Técnico em Desenvolvimento de Sistemas** · ETEC Jales<br/>
+**Análise e Desenvolvimento de Sistemas** *(em curso)* · FATEC Jales
+
+</div>
